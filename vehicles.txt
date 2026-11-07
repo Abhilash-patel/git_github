@@ -1,0 +1,8 @@
+V1,car,swift,1500.0,Rented,riya,2
+V2,car,swift,1500.0,Rented,Neha,3
+V3,bike,,500.0,Available
+V4,car,swift,1500.0,Available
+V5,bike,splender,500.0,Available
+V6,car,swift,1500.0,Available
+V7,car,sd,12.0,Available
+V8,car,swift,100.0,Available
